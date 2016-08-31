@@ -5,7 +5,7 @@
  
  1、在项目app工程下创建 aidl Packager，右击AndroidStudio,生成
     AIDL File，这是默认的生成方式实例:
-	![]()
+	![](https://github.com/wanglyGithub/AIDL_Service/blob/master/preview/test.png)
 	
 2、修改当中的方法，改为自己定义的方法，已满足自己的需求
 
